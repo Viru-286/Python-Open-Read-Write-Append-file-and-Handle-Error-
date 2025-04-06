@@ -1,0 +1,1 @@
+# Python-Open-Read-Write-Append-file-and-Handle-Error-
